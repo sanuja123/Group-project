@@ -16,6 +16,7 @@ any devices with internet
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -36,4 +37,8 @@ change by v.1.0f2
 =======
 v.1.0f1 change 1 
 v.1.0f1 change 2
+>>>>>>> v.1.0f1
+=======
+v.1.0f1 change 1   -1
+v.1.0f1 change 2  -1
 >>>>>>> v.1.0f1
