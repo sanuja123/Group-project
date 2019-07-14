@@ -15,6 +15,7 @@ mySQL
 any devices with internet
 
 
+<<<<<<< HEAD
 
 
 
@@ -32,3 +33,7 @@ any devices with internet
 
 
 change by v.1.0f2
+=======
+v.1.0f1 change 1 
+v.1.0f1 change 2
+>>>>>>> v.1.0f1
