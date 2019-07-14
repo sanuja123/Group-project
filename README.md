@@ -10,7 +10,7 @@ requirements
 4.online booking rooms
 
 
-PHP(laravel)
+PHP(laravel) -framework
 mySQL
 any devices with internet
 
