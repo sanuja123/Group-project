@@ -13,3 +13,22 @@ requirements
 PHP(laravel)
 mySQL
 any devices with internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+change by v.1.0f2
