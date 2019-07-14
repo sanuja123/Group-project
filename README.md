@@ -15,5 +15,5 @@ mySQL
 any devices with internet
 
 
-v.1.0f1 change 1 
-v.1.0f1 change 2
+v.1.0f1 change 1   -1
+v.1.0f1 change 2  -1
